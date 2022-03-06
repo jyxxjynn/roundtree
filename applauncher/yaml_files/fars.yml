@@ -1,0 +1,5 @@
+command: "C:\\Program Files\\VideoLAN\\VLC\\vlc.exe"
+modifiers: "--loop --width 100 --height 100"
+darkmodifiers:  "-Iskins --loop --width 100 --height 100"
+root: "C:\\Users\\Jason\\petrus\\personal\\tiktok"
+folders: ["fars"]
